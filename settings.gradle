@@ -1,0 +1,3 @@
+rootProject.name = "TreeAdapterSimple"
+include ':app'
+include ':treeadapter'
